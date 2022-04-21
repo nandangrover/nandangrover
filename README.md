@@ -10,7 +10,7 @@ Machine Learning/AI enthusiast and Software Developer. I am passionate about unl
 * 🖥️  See my portfolio at [nandangrover.com](http://nandangrover.com)
 * ✉️  You can contact me at [nandangrover.5@gmail.com](mailto:nandangrover.5@gmail.com)
 * 🧠  I'm learning Data Mining and Deep Learning
-* 🤝  I'm open to collaborating on projects related to Machine Learning and GO
+* 🤝  I'm open to collaborating on projects related to Machine Learning or anything that requires some serious brainstorming
 
 ### Skills
 
