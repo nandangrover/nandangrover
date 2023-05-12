@@ -9,7 +9,7 @@ Machine Learning/AI enthusiast and Software Developer. I am passionate about unl
 * 🌍  I'm based in UK
 * 🖥️  See my portfolio at [nandangrover.com](http://nandangrover.com)
 * ✉️   You can contact me at [nandangrover.5@gmail.com](mailto:nandangrover.5@gmail.com)
-* 📖  Read my blog at [medium](https://medium.com/@nandangrover)
+* 📖  Check my blogging platform at [Stochastic Bard](http://stochasticbard.com/) or head over to [Medium](https://medium.com/@nandangrover).
 * 🧠  I'm learning Artificial Intelligence
 * 🤝  I'm open to collaborating on projects related to Machine Learning or anything that requires some serious brainstorming
 
