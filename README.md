@@ -1,15 +1,15 @@
 Hi 👋 My name is Nandan Grover
 ==============================
 
-Senior Software Engineer @Zevero
+Senior Software Engineer [@Zevero](https://www.zevero.earth/)
 --------------------------------------------------
 
-AI + Software Engineer. I am passionate about unleashing scientific and engineering creativity to tackle some of the most complex problems.
+I am passionate about unleashing scientific and engineering creativity to tackle some of the most complex problems. Please reach out to collaborate!
 
 * 🌍  I'm based in UK
 * ✉️  You can contact me at [nandangrover.5@gmail.com](mailto:nandangrover.5@gmail.com)
-* 📖  Check my blogging platform at [Stochastic Bard](http://stochasticbard.com/) or head over to [Medium](https://medium.com/@nandangrover).
-* 🪓  Currently building a tool for detecting Greenwashing [GreenDetective](www.greendetective.earth)
+* 📖  Check my blogging platform at [Stochastic Bard](http://stochasticbard.com/) or head over to [Medium](https://medium.com/@nandangrover)
+* 🪓  Currently building a tool for detecting Greenwashing [GreenDetective](https://www.greendetective.earth)
 
 ### Skills
 
