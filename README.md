@@ -1,17 +1,15 @@
 Hi 👋 My name is Nandan Grover
 ==============================
 
-Full Stack Developer | MSc Artificial Intelligence
+Senior Software Engineer @Zevero
 --------------------------------------------------
 
-Machine Learning/AI enthusiast and Software Developer. I am passionate about unleashing scientific and engineering creativity to tackle some of the most complex problems. After working years as a Software Developer, I am currently following my passion in AI to pursue a Masters Degree at the University of Aberdeen.
+AI + Software Engineer. I am passionate about unleashing scientific and engineering creativity to tackle some of the most complex problems.
 
 * 🌍  I'm based in UK
-* 🖥️  See my portfolio at [nandangrover.com](http://nandangrover.com)
-* ✉️   You can contact me at [nandangrover.5@gmail.com](mailto:nandangrover.5@gmail.com)
+* ✉️  You can contact me at [nandangrover.5@gmail.com](mailto:nandangrover.5@gmail.com)
 * 📖  Check my blogging platform at [Stochastic Bard](http://stochasticbard.com/) or head over to [Medium](https://medium.com/@nandangrover).
-* 🧠  I'm learning Artificial Intelligence
-* 🤝  I'm open to collaborating on projects related to Machine Learning or anything that requires some serious brainstorming
+* 🪓  Currently building a tool for detecting Greenwashing [GreenDetective](www.greendetective.earth)
 
 ### Skills
 
